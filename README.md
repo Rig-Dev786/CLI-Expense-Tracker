@@ -1,6 +1,6 @@
 # CLI Expense Tracker & Analyser
 
-#### Video Demo:https://www.youtube.com/watch?v=XMnbIkU8AM4
+#### Video Demo: https://www.youtube.com/watch?v=gO2aB9MwE0A
 
 #### Description:A Command-Line Expense Tracker and Analyser, a daily-use application right into your terminal for managing your daily expenses in a database.
 
