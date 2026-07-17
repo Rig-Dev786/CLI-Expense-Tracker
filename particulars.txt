@@ -1,6 +1,0 @@
-Project: CLI Expense Tracker & Analyser
-Name: Rigved Tamkoria
-GitHub: Rig-Dev786
-edX: Rigved_007
-City, Country: Bengaluru, India.
-Date: April 22, 2026
