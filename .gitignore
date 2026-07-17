@@ -4,15 +4,13 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
 
 # Virtual environments
 venv/
 .venv/
 
-# Local database
+# Generated project files
 expenses.db
-
-# IDEs
-.vscode/
-.idea/
+expenses_chart.png
+report.txt
+particulars.txt
